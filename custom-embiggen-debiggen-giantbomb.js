@@ -20,7 +20,7 @@
         var old_video_height = episode_video_container.css('max-height');
         var episode_content_container = $('.episode-content-container');
         var old_content_width = episode_content_container.css('width');
-        var button = '<div class="horizontal-spacing-between custom-video-embiggen"><div class="set-width text-small"><div class="dropdown-selected dropdown-select-background" style="padding: 10px 15px; background-image: none;"><i>' + expand_svg + ' </i><span class="hide-mobile custom-video-embiggen-text-state">Embiggen</span></div></div></div>';
+        var button = '<div class="horizontal-spacing-between custom-video-embiggen"><div class="set-width text-small"><div class="dropdown-select-background dropdown-background-color" style="padding: 10px 15px; background-image: none;"><i>' + expand_svg + ' </i><span class="hide-mobile custom-video-embiggen-text-state">Embiggen</span></div></div></div>';
 
         if ( episodes_button_container.length <= 0 ) return;
 
