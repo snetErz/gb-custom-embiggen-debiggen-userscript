@@ -44,7 +44,7 @@
                 button_text.text('Debiggen');
                 icon.html(compress_svg);
                 episode_content_container.css('width', '0');
-                episode_video_container.css('max-height', '100%');
+                episode_video_container.css('max-height', '792px');
             }
 
         });
