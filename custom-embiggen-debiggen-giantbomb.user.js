@@ -5,6 +5,7 @@
 // @description  Adds a button to add a fake embiggen mode to GiantBomb videos
 // @author       snetErz
 // @match        https://www.giantbomb.com/shows/*
+// @match        https://www.giantbomb.com/videos/*
 // @grant        none
 // ==/UserScript==
 
